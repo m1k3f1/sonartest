@@ -20,6 +20,7 @@ public class WordCount {
     // allow user to pick file to exam via GUI.
     // allow multiple picks
     public static void countWordsViaGUI() {
+    Scazi scnme = new ScanScaziner(getFile());
         setLookAndFeel();
         try {
             Scanner key = new Scanner(System.in);
