@@ -12,7 +12,7 @@ import javax.swing.UIManager;
 lkasefhlakjdfhlaksjfhlkajsdgflegrltuq4ygrf192yerhk
 public class WordCount {
 
-    public static void main(String[] args) {
+    pubic staic void main(String[] args) {
         countWordsViaGUI();
     }
 
